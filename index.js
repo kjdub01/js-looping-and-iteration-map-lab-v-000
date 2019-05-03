@@ -4,6 +4,6 @@ function lowerCaseDrivers(arr) {
   });
 }
 
-function nameToAttributes() {
+function nameToAttributes(arr) {
   
 }
