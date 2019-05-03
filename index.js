@@ -13,8 +13,8 @@ function nameToAttributes(arr) {
   });
 }
 
-function attributesToPhrase(arr) {
-  return arr.map(function (driver) {
-    return driver 
+function attributesToPhrase(drivers) {
+  return drivers.map(function (driver) {
+    return ""
   });
 }
