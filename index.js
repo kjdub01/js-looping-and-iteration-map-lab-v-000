@@ -9,6 +9,6 @@ function nameToAttributes(arr) {
     const driverFirst = driver.split(" ")[0];
     const driverLast = driver.split(" ")[1];
     
-    return { firstName: driverFirst, lastNamer: driverLast };
+    return { firstName: driverFirst, lastName: driverLast };
   });
 }
