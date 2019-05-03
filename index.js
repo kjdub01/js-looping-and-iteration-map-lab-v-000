@@ -12,3 +12,9 @@ function nameToAttributes(arr) {
     return { firstName: driverFirst, lastName: driverLast };
   });
 }
+
+function attributesToPhrase(arr) {
+  arr.map(function (driver) {
+    
+  });
+}
